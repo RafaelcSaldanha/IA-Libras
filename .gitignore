@@ -1,0 +1,25 @@
+
+# Ambientes virtuais
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Testes
+.pytest_cache/
+.coverage
+
+# Build e distribuição
+build/
+dist/
+
+# Configurações locais
+.env
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
